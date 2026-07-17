@@ -1,0 +1,2 @@
+Hello Node.js
+I am appending data to the file

@@ -1,0 +1,19 @@
+
+{
+  "name": "question8",
+  "version": "1.0.0",
+  "description": "Node.js Practical",
+  "main": "build.js",
+  "type": "commonjs",
+  "scripts": {
+    "server": "node build.js",
+    "test": "echo Testing...",
+    "start": "node build.js",
+    "dev": "node build.js",
+    "hello": "echo Hello Node"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
